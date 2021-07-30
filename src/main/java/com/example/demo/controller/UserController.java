@@ -12,6 +12,7 @@ public class UserController {
     @RequestMapping("/hand")
     public  String hand1(){
 
+        System.out.println("123");
         return "你给按揭那就";
     }
 }
