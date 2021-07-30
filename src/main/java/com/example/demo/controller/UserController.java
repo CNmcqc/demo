@@ -13,6 +13,7 @@ public class UserController {
     public  String hand1(){
 
         System.out.println("123");
+        System.out.println("123");
         return "你给按揭那就";
     }
 }
